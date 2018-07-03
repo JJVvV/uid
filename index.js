@@ -7,7 +7,7 @@ module.exports = uid;
 /**
  * Create a `uid`
  *
- * @param {String} len
+ * @param {Number} len
  * @return {String} uid
  */
 
